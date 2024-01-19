@@ -4,8 +4,6 @@ list = [1, 4, 6, 2, 5, 9, 4, 7, 9]
 ## find max and min of a list
 x = 0
 
-
-
 ## remove duplicates
 
 ### Speed problem
